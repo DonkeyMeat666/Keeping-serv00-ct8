@@ -31,4 +31,4 @@
 ```
 
 # 致谢
-[gshtwy]((https://github.com/gshtwy/socks5-hysteria2-for-Serv00-C)
+[gshtwy](https://github.com/gshtwy/socks5-hysteria2-for-Serv00-C)
